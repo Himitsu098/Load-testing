@@ -19,11 +19,3 @@ document.getElementById("loginForm").addEventListener("submit", function(event) 
         errorMessage.textContent = "Invalid username or password."; // Show error message
     }
 });
-
-/**
- * Handles the "Forgot Password" link click.
- * Currently, it only shows an alert message.
- */
-document.getElementById("forgotPassword").addEventListener("click", function() {
-    alert("Forgot password functionality to be implemented.");
-});
