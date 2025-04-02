@@ -3,29 +3,29 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f8f9fa;
+    background-color: #ebebeb !important;
 }
 .login-container {
     width: 100%;
     max-width: 400px;
     padding: 2rem;
-    background: white;
+    background: #ffffff;
     border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 14px 16px rgba(0, 0, 0, 0.1);
 }
 .register-container {
     width: 100%;
     max-width: 400px;
     padding: 2rem;
-    background: white;
+    background: #ffffff;
     border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 14px 16px rgba(0, 0, 0, 0.1);
 }
 .forgot-container {
     width: 100%;
     max-width: 400px;
     padding: 2rem;
-    background: white;
+    background: #ffffff;
     border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 14px 16px rgba(0, 0, 0, 0.1);
 }
